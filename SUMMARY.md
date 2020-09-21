@@ -1,4 +1,9 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [译者注](README.md)
+
+## 2：统计、概率和噪声 <a id="2-tong-ji-gai-lv-he-zao-sheng"></a>
+
+* [信号和图形术语](2-tong-ji-gai-lv-he-zao-sheng/xin-hao-he-tu-xing-shu-yu.md)
+* [Untitled](2-tong-ji-gai-lv-he-zao-sheng/untitled-1.md)
 
