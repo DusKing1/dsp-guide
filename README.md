@@ -7,4 +7,5 @@
 本人的翻译水平无法达到专业翻译水平，如发现谬误，望读者不吝赐教。
 
 ## 版权声明
-"The Scientist and Engineer's Guide to Digital Signal Processing, copyright ©1997-1998 by Steven W. Smith. For more information visit the book's website at: www.DSPguide.com"
+
+The Scientist and Engineer's Guide to Digital Signal Processing, copyright ©1997-1998 by Steven W. Smith. For more information visit the book's website at: www.DSPguide.com
