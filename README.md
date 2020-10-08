@@ -12,8 +12,9 @@
 
 ## 如何阅读
 
-https://pitronic.gitbook.io/dsp-guide/
+[https://pitronic.gitbook.io/dsp-guide/](https://pitronic.gitbook.io/dsp-guide/)
 
 ## 版权声明
 
 The Scientist and Engineer's Guide to Digital Signal Processing, copyright ©1997-1998 by Steven W. Smith. For more information visit the book's website at: www.DSPguide.com
+
