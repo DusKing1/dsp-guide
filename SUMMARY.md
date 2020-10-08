@@ -8,4 +8,5 @@
 * [平均值与标准差](2-tong-ji-gai-lv-he-zao-sheng/untitled-1.md)
 * [信号与基本过程](2-tong-ji-gai-lv-he-zao-sheng/xin-hao-yu-ji-chu-liu-cheng.md)
 * [直方图，Pmf和Pdf](2-tong-ji-gai-lv-he-zao-sheng/zhi-fang-tu-pmf-he-pdf.md)
+* [正态分布](2-tong-ji-gai-lv-he-zao-sheng/zheng-tai-fen-bu.md)
 
